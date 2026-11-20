@@ -100,12 +100,6 @@ ORDER BY total_kali_order DESC;
 
 ---
 
-## 📄 Presentation Deck
-View the full project slide deck with charts and visual breakdowns here:
-* [`presentation/E-Commerce_Sales___Customer_Behavior_Analysis-Portfolio.pdf`](presentation/E-Commerce_Sales___Customer_Behavior_Analysis-Portfolio.pdf)
-
----
-
 ## 🤝 Authors & Contact
-* **Deris Muhammad Al Faras** — [LinkedIn](https://www.linkedin.com) *(replace with your LinkedIn URL)*
-* **Ely Dea Theresia Br Manik** — [LinkedIn](https://www.linkedin.com) *(replace with Ely's LinkedIn URL)*
+* **Deris Muhammad Al Faras** — [LinkedIn](https://www.linkedin.com/derisalfaras) 
+* **Ely Dea Theresia Br Manik** — [LinkedIn](https://www.linkedin.com/elydeatheresia) 
