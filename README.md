@@ -101,5 +101,5 @@ ORDER BY total_kali_order DESC;
 ---
 
 ## 🤝 Authors & Contact
-* **Deris Muhammad Al Faras** — [LinkedIn](https://www.linkedin.com/derisalfaras) 
-* **Ely Dea Theresia Br Manik** — [LinkedIn](https://www.linkedin.com/elydeatheresia) 
+* **Deris Muhammad Al Faras** — [LinkedIn](https://www.linkedin.com/in/derisalfaras) 
+* **Ely Dea Theresia Br Manik** — [LinkedIn](https://www.linkedin.com/in/elydeatheresia) 
